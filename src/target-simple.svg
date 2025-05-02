@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="900px"
+   height="900px"
+   viewBox="0 0 900 900"
+   enable-background="new 0 0 900 900"
+   xml:space="preserve"
+   sodipodi:docname="target-simple.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" /><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.0344444"
+   inkscape:cx="450.00001"
+   inkscape:cy="450.00001"
+   inkscape:window-width="3840"
+   inkscape:window-height="2060"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+<circle
+   cx="450"
+   cy="450"
+   r="425"
+   id="circle1" />
+<circle
+   fill="#FFFFFF"
+   cx="450"
+   cy="450"
+   r="250"
+   id="circle2" />
+<circle
+   cx="450"
+   cy="449.725"
+   r="100"
+   id="circle3" />
+</svg>
